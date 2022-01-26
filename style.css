@@ -33,6 +33,9 @@
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: center;
+    width: 500px;
+    height: 100vh;
+    margin: auto;
 }
 
 .galery-container .image{
